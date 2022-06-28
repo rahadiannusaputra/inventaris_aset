@@ -66,3 +66,4 @@ inventaris_aset >> README.md
 git add .
 git remote add origin https://github.com/rahadiannusaputra/inventaris_aset.git
 echo inventaris_aset
+# inventaris_aset
